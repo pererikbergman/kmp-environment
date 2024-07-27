@@ -1,0 +1,6 @@
+TEAM_ID=
+BUNDLE_ID=com.rakangsoftware.environment.dev
+APP_NAME=Environment
+APPLICATION_DISPLAY_NAME=Environment (DEV)
+ENVIRONMENT=dev
+KOTLIN_FRAMEWORK_BUILD_TYPE=debug
